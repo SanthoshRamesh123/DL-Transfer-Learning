@@ -4,11 +4,14 @@
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
 ## Problem Statement and Dataset
-Include the problem statement and Dataset
+Developing a Neural Network Classification Model using Transfer Learning
 
+Training deep neural networks from scratch requires large datasets, high computational power, and significant training time. In many practical scenarios, such resources are limited.
+
+The goal of this project is to develop an image classification model using Transfer Learning, where a pre-trained neural network is reused and fine-tuned to classify new data efficiently.
 
 ## Neural Network Model
-Include the neural network model diagram.
+A Neural Network Model is a type of machine learning model inspired by the structure and functioning of the human brain. It is used to learn patterns from data and make predictions or decisions.
 
 ## DESIGN STEPS
 ### STEP 1: 
